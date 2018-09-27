@@ -12,6 +12,7 @@
 		9A8E573D215CDDD10043C492 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E573B215CDDD10043C492 /* Main.storyboard */; };
 		9A8E573F215CDDDA0043C492 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E573E215CDDDA0043C492 /* Assets.xcassets */; };
 		9A8E5742215CDDDA0043C492 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E5740215CDDDA0043C492 /* LaunchScreen.storyboard */; };
+		9A8E574C215CEA1C0043C492 /* myTabelViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8E574B215CEA1C0043C492 /* myTabelViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9A8E573E215CDDDA0043C492 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A8E5741215CDDDA0043C492 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A8E5743215CDDDA0043C492 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A8E574B215CEA1C0043C492 /* myTabelViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myTabelViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9A8E5737215CDDD10043C492 /* AppDelegate.swift */,
 				9A8E5739215CDDD10043C492 /* ViewController.swift */,
 				9A8E573B215CDDD10043C492 /* Main.storyboard */,
+				9A8E574B215CEA1C0043C492 /* myTabelViewCell.swift */,
 				9A8E573E215CDDDA0043C492 /* Assets.xcassets */,
 				9A8E5740215CDDDA0043C492 /* LaunchScreen.storyboard */,
 				9A8E5743215CDDDA0043C492 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A8E574C215CEA1C0043C492 /* myTabelViewCell.swift in Sources */,
 				9A8E573A215CDDD10043C492 /* ViewController.swift in Sources */,
 				9A8E5738215CDDD10043C492 /* AppDelegate.swift in Sources */,
 			);
